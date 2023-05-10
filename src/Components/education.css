@@ -1,0 +1,12 @@
+.educationhead{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(252, 239, 239);
+    font-weight: bold;
+}
+.cert-inst,.cert-year{
+    font-size: 20px;
+}
+#educationdiv{
+    background-color: rgb(252, 239, 239);
+}

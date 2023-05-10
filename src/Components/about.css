@@ -1,0 +1,16 @@
+.aboutpagediv{
+    background-color: rgb(253, 242, 240);
+}
+.aboutpageheader{
+    text-align: center;
+    background-color: rgb(253, 242, 240);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.aboutpagepara{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.aboutpagecontent{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

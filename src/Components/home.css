@@ -1,0 +1,12 @@
+.homepagediv{
+    background-color: rgb(237, 244, 250);
+}
+.maindiv,.homepageheader{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.homepagepara{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}

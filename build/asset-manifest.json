@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2f7dbd8.css",
+    "main.js": "/static/js/main.afd0513e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/javascriptskills.png": "/static/media/javascriptskills.02852ac80c1e213adc84.png",
+    "static/media/mongodbcertificate.png": "/static/media/mongodbcertificate.52a86ddf73500d231f33.png",
+    "static/media/htmlintrocertificate.png": "/static/media/htmlintrocertificate.0244649df86b4b4c4f38.png",
+    "static/media/csscertificate.png": "/static/media/csscertificate.c8fb9ebf8ccde62e0fe6.png",
+    "static/media/htmlcertificate.png": "/static/media/htmlcertificate.88a56ca88d615d78c13c.png",
+    "static/media/techfoundation.png": "/static/media/techfoundation.80c857959af3490ded31.png",
+    "static/media/javacertificate.png": "/static/media/javacertificate.b0ff5650a16a4e1534a5.png",
+    "static/media/metafrontend.png": "/static/media/metafrontend.04f720c4ba396395056f.png",
+    "static/media/metabackend.png": "/static/media/metabackend.7e61fdd490382d3e4935.png",
+    "static/media/javascriptcertificate.png": "/static/media/javascriptcertificate.2a4757551fdf46d17a5f.png",
+    "static/media/mysqlcertificate.png": "/static/media/mysqlcertificate.56ec91e0efd50debff84.png",
+    "static/media/fullstackasses.png": "/static/media/fullstackasses.6aa11054bf802a2f0184.png",
+    "static/media/aboutpageimage.webp": "/static/media/aboutpageimage.b62eebd944b4e48edcac.webp",
+    "static/media/homepageimage.jpg": "/static/media/homepageimage.d65bc2d7f2c3c0c0ae98.jpg",
+    "static/media/phoneicon.png": "/static/media/phoneicon.a40c2be715452ecddb39.png",
+    "static/media/gmailicon.png": "/static/media/gmailicon.cd0aefb0483b7dbf8448.png",
+    "static/media/mysqlicon.png": "/static/media/mysqlicon.d0875781b3030e385cc1.png",
+    "static/media/reacticon.svg": "/static/media/reacticon.f14823f06093e7ef0f77ec6437671a1f.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/javaicon.svg": "/static/media/javaicon.7ddd01a4b693a7764dbb7e6c72779723.svg",
+    "static/media/nodeicon.svg": "/static/media/nodeicon.16864682ece4fd805fdc1e6040cb834a.svg",
+    "static/media/springbooticon.svg": "/static/media/springbooticon.21a12f51c5f8be2986fecbbda9a16a25.svg",
+    "static/media/javascripticon.svg": "/static/media/javascripticon.7dd7c3537dd26a228234830e31aade7b.svg",
+    "static/media/cssicon.svg": "/static/media/cssicon.79f51b528c782dd9989af72b320a4489.svg",
+    "index.html": "/index.html",
+    "static/media/htmlicon.svg": "/static/media/htmlicon.4b54c9f8e6586111f7003890dc0854c4.svg",
+    "main.b2f7dbd8.css.map": "/static/css/main.b2f7dbd8.css.map",
+    "main.afd0513e.js.map": "/static/js/main.afd0513e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2f7dbd8.css",
+    "static/js/main.afd0513e.js"
+  ]
+}

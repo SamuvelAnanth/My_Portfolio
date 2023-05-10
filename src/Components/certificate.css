@@ -1,0 +1,10 @@
+.certfont{
+    font-weight: bold;
+}
+.certimage:hover{
+    transform: scale(1.05);
+}
+#certificateScroll{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
